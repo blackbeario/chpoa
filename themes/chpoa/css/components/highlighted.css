@@ -10,3 +10,7 @@
 .region-highlighted {
   margin: 0 15px;
 }
+.highlighted .messages .views-field-field-image {
+  float: left;
+  margin-right: 1em;
+}
